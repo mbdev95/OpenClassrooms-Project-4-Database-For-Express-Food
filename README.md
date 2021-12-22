@@ -15,6 +15,7 @@ MySQL was used to create the database for ExpressFood.  I used the UML class dia
 ## MySQL Example Queries To Access Database
 
 ![Express-Food-Database-MySQL-Queries](https://user-images.githubusercontent.com/77469447/127903164-500a9468-56a9-4222-a972-97e8f0c0b04c.PNG)
+
 The above image shows a few of the queries I had to create in order to show competency at querying databases using MySQL.  For this project I learned numerous way of querying using MySQL, from basic to complex queries by using keywords such as SELECT, JOIN, ON, WHERE, FROM, ect.  I also learned how to update, delete and add data using MySQL.
 
 
